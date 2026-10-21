@@ -1,3 +1,4 @@
 # Coding Agent E2E
 
 Sandbox repository for the coding-agent-service real E2E test.
+Probado con OpenRouter.
